@@ -2337,3 +2337,17 @@ section.lazy-placeholder:after {
   padding-bottom: 60px;
   background-color: #ffffff;
 }
+.cid-rEDXYJ6Xfq {
+  background-image: url("../../../assets/images/thaihealth-c-bcegjkmpy147-1000x667.jpg");
+}
+.cid-rEDXYJ6Xfq .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-rEDXYJ6Xfq .media-container-column {
+  background-color: #4f4943;
+}
+@media (max-width: 767px) {
+  .cid-rEDXYJ6Xfq .media-container-column {
+    padding: 1rem !important;
+  }
+}
